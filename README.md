@@ -42,14 +42,14 @@
 |[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=josenobrec&bg_color=0b0c23&color=4682B4&line=362bda&point=5e5a5a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)|
 | :-: |
 
-<!-- ![Snake animation](https://github.com/josenobrec/josenobrec/blob/output/github-contribution-grid-cobrinha.svg) -->
 
 <!--
-
 ### Hi there 👋
 **josenobrec/josenobrec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+  ![Snake animation](https://github.com/josenobrec/josenobrec/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

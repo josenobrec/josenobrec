@@ -42,7 +42,7 @@
 |[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=josenobrec&bg_color=0b0c23&color=4682B4&line=362bda&point=5e5a5a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)|
 | :-: |
 
-
+<!-- ![Snake animation](https://github.com/josenobrec/josenobrec/blob/output/github-contribution-grid-cobrinha.svg) -->
 
 <!--
 

@@ -9,7 +9,7 @@
 
 <br>**Quero Aprender:**
 |<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="NodeJS" title="NodeJs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />|<img alt="PHP" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />|          
-|--|--|--|
+| :-: | :-: | :-: |
 
 **Programming Languages**
 |<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|<img alt="HTML" title="Html5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">|<img alt="CSS" title="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">|<img alt="Docker" title="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">|
@@ -23,13 +23,11 @@
 
 **Databases**
 |<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|
-|--|
+| :-: |
 
 **Libraries and Frameworks**
 |<img alt="Bootstrap" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">|
 |--|
-
-### Redes Sociais:<br>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=josenobrec&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josenobrec&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josenobrec&theme=nord_dark) |
 | :-: | :-: | :-: |
@@ -43,7 +41,11 @@
 |[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=josenobrec&bg_color=0b0c23&color=4682B4&line=362bda&point=5e5a5a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)|
 | :-: |
 
+### Redes Sociais:<br>
 
+|<a href="https://www.linkedin.com/in/josé-nobrec" target="_blank"><img title="linkedin" alt="linkedin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>|<a href="https://www.facebook.com/josenobrec" target="_blank"><img title="Facebook" alt="Facebook" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />|          
+| :-: | :-: |
+          
 
 <!--
 

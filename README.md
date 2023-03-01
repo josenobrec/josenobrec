@@ -1,8 +1,8 @@
-### - Atualmente estou trabalhando com:<br>
+### 🔭 - Atualmente estou trabalhando com:<br>
 <img title="Java" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">|<img alt="Android" title="Android" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">|<img alt="BitBucket" title="BitBucket" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg">|<img title="Trello" alt="Trello" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">|<img title="Github" alt="Github" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">|<img alt="Git" title="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />|<img title="Gitlab" alt="Gitlab" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />|
 |--|--|--|--|--|--|--|
 
-<br>**Atualmente estou aprendendo...** <br>
+<br>🌱 - **Atualmente estou aprendendo...** <br>
 |<img alt="Azure" title="Ms-Azure" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />|
 |--|
 
@@ -41,7 +41,7 @@
 |[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=josenobrec&bg_color=0b0c23&color=4682B4&line=362bda&point=5e5a5a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)|
 | :-: |
 
-### Redes Sociais:<br>
+### 📫 - Redes Sociais:<br>
 
 |<a href="https://www.linkedin.com/in/josé-nobrec" target="_blank"><img title="linkedin" alt="linkedin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>|<a href="https://www.facebook.com/josenobrec" target="_blank"><img title="Facebook" alt="Facebook" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />|          
 | :-: | :-: |

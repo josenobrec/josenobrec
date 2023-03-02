@@ -10,7 +10,7 @@
 |--|
 
 
-<br>**Quero Aprender:**
+<br>🚀 - **Quero Aprender:**
 |<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="NodeJS" title="NodeJs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />|<img alt="PHP" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />|          
 | :-: | :-: | :-: |
 
